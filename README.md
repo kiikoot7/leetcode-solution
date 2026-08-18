@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kiikoot7/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kiikoot7/leetcode-solution/tree/master/0069-sqrtx) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/kiikoot7/leetcode-solution/tree/master/1563-stone-game-v) |
