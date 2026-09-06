@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/kiikoot7/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/kiikoot7/leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kiikoot7/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kiikoot7/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/kiikoot7/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/kiikoot7/leetcode-solution/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kiikoot7/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
