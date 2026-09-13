@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kiikoot7/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/kiikoot7/leetcode-solution/tree/master/0075-sort-colors) |
+| [0835-image-overlap](https://github.com/kiikoot7/leetcode-solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kiikoot7/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/kiikoot7/leetcode-solution/tree/master/1563-stone-game-v) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/kiikoot7/leetcode-solution/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kiikoot7/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
