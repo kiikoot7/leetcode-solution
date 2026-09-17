@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/kiikoot7/leetcode-solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kiikoot7/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kiikoot7/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/kiikoot7/leetcode-solution/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/kiikoot7/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kiikoot7/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/kiikoot7/leetcode-solution/tree/master/0069-sqrtx) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kiikoot7/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kiikoot7/leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kiikoot7/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/kiikoot7/leetcode-solution/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiikoot7/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kiikoot7/leetcode-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/kiikoot7/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kiikoot7/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kiikoot7/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kiikoot7/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kiikoot7/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kiikoot7/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
