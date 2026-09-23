@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kiikoot7/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiikoot7/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kiikoot7/leetcode-solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kiikoot7/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kiikoot7/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiikoot7/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kiikoot7/leetcode-solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kiikoot7/leetcode-solution/tree/master/0075-sort-colors) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kiikoot7/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/kiikoot7/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kiikoot7/leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/kiikoot7/leetcode-solution/tree/master/1927-sum-game) |
