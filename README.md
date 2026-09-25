@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kiikoot7/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiikoot7/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kiikoot7/leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/kiikoot7/leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kiikoot7/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kiikoot7/leetcode-solution/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kiikoot7/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kiikoot7/leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kiikoot7/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/kiikoot7/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kiikoot7/leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kiikoot7/leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kiikoot7/leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kiikoot7/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -300,8 +304,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiikoot7/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiikoot7/leetcode-solution/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
