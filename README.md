@@ -255,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kiikoot7/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/kiikoot7/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kiikoot7/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kiikoot7/leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kiikoot7/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/kiikoot7/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiikoot7/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
