@@ -6,8 +6,8 @@ class Solution {
 
         while (curr != null) {
 
-            ListNode next = curr.next; // save next node
-            curr.next = prev;          // reverse link
+            ListNode next = curr.next; 
+            curr.next = prev;          
             prev = curr;
             curr = next;
         }
