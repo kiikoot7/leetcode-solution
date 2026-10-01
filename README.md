@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kiikoot7/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kiikoot7/leetcode-solution/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kiikoot7/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/kiikoot7/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiikoot7/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kiikoot7/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kiikoot7/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1096-brace-expansion-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kiikoot7/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kiikoot7/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kiikoot7/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kiikoot7/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kiikoot7/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kiikoot7/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
