@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kiikoot7/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/kiikoot7/leetcode-solution/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/kiikoot7/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kiikoot7/leetcode-solution/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kiikoot7/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kiikoot7/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kiikoot7/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kiikoot7/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kiikoot7/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kiikoot7/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1096-brace-expansion-ii) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/kiikoot7/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
