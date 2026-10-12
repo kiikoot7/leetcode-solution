@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kiikoot7/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/kiikoot7/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/kiikoot7/leetcode-solution/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/kiikoot7/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/kiikoot7/leetcode-solution/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/kiikoot7/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kiikoot7/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/kiikoot7/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/kiikoot7/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiikoot7/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
