@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiikoot7/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kiikoot7/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kiikoot7/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kiikoot7/leetcode-solution/tree/master/0022-generate-parentheses) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiikoot7/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kiikoot7/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kiikoot7/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiikoot7/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kiikoot7/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kiikoot7/leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kiikoot7/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
