@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kiikoot7/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/kiikoot7/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/kiikoot7/leetcode-solution/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/kiikoot7/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/kiikoot7/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kiikoot7/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/kiikoot7/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kiikoot7/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kiikoot7/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/kiikoot7/leetcode-solution/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/kiikoot7/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kiikoot7/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kiikoot7/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
