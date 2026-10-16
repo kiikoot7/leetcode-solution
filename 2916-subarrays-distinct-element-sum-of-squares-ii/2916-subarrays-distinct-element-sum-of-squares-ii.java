@@ -6,7 +6,7 @@ class Solution {
     public int sumCounts(int[] nums) {
 
         int n = nums.length;
-        sum = new long[4*n];
+        sum= new long[4*n];
         sumSquares = new long[4*n];
         lazy = new long[4*n];
 
