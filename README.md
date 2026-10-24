@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiikoot7/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/kiikoot7/leetcode-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kiikoot7/leetcode-solution/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/kiikoot7/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kiikoot7/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/kiikoot7/leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kiikoot7/leetcode-solution/tree/master/3525-find-x-value-of-array-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kiikoot7/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/kiikoot7/leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kiikoot7/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/kiikoot7/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kiikoot7/leetcode-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kiikoot7/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kiikoot7/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
